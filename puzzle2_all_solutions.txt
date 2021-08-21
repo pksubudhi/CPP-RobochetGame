@@ -1,0 +1,47 @@
+    1   2   3   4   5   6   7
+  +---+---+---+---+---+---+---+
+  |                           |
+ 1| B                         |
+  |                           |
+  +   +   +   +---+   +   +   +
+  |           |               |
+ 2|         A |               |
+  |           |               |
+  +   +   +---+   +   +   +   +
+  |                           |
+ 3|                     b     |
+  |                           |
+  +   +   +   +   +   +   +   +
+  |                           |
+ 4|                         C |
+  |                           |
+  +---+---+---+---+---+---+---+
+Robot A moves north
+Robot A moves east
+Robot A moves south
+Robot A moves north
+Robot A moves south
+Robot A moves north
+Robot A moves south
+Robot A moves north
+Robot A moves south
+Robot A moves north
+Robot A moves south
+Robot A moves north
+Robot A moves south
+Robot A moves north
+Robot A moves south
+Robot A moves north
+Robot A moves south
+Robot A moves north
+Robot A moves south
+Robot A moves north
+Robot A moves south
+Robot A moves north
+Robot A moves south
+Robot A moves north
+Robot A moves south
+Robot C moves west
+Robot B moves south
+Robot B moves east
+robot  reaches the goal after -1 moves

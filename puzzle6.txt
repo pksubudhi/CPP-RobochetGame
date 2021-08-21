@@ -1,0 +1,6 @@
+5 5
+robot A 1 1
+robot B 5 5
+vertical_wall 1 3.5
+vertical_wall 3 4.5
+goal any 3 4
